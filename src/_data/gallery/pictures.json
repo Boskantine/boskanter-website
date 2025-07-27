@@ -13,9 +13,9 @@
     },
     {
         "key": "IMG_3012.jpg",
-        "date": "27.07.25",
+        "date": "27.7.2025",
         "category": "something",
-        "description": {"en": "laundry", "fr": "pizza", "nl": "pizzafeestje"}
+        "description": {"en": "laundry", "fr": "laundry", "nl": "was"}
     },
     {
         "key": "oven.jpg",
