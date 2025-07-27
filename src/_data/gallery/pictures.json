@@ -12,6 +12,12 @@
         "description": {"en": "pizza party", "fr": "pizza", "nl": "pizzafeestje"}
     },
     {
+        "key": "IMG_3012.jpg",
+        "date": "27.07.25",
+        "category": "something",
+        "description": {"en": "laundry", "fr": "pizza", "nl": "pizzafeestje"}
+    },
+    {
         "key": "oven.jpg",
         "description": {"en": "oven", "fr": "oven", "nl": "oven"}
     }
