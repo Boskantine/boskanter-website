@@ -2,7 +2,9 @@
 title: degrowth
 layout: layouts/article.html
 ---
-Zolang het systeem niet verandert brengt het weinig zodan aan de dijk als we met z'n allen elektrisch gaan rijden of zelfs de wagen voor de fiets laten staan. Iedere maatregel die echt succesvol is in het verminderen van onze impact op klimaat en milieu zou de omzet zo verminderen dat we in een zogenaamde resessie terechtkomen. We kunnen natuurlijk proberen al die vervuilende industrie te vervangen door eentje zonder die impact, zodat de economie toch zeker kan blijven groeien. Dat heet dan 'Ontkoppelen'. Los van de heel terechte vraag of dat uberhaupt mogelijk is, kan je je afvragen waarom we ons zo in bochten zouden wringen om toch absoluut die groei te vrijwaren. Is ze noodzakelijk voor ons geluk? Ons welzijn? De wereldvrede? Ja, ze brengt ons almaar meer, maar de kostprijs wordt stilaan ondraaglijk. Hebben we niet net een systeem nodig dat ons helpt om het met wat minder te doen? En in elk geval wat beter verdeeld? 
+
+Stel, een beweging van gedreven studenten slaagt er in om de helft van de westerse bevolking te overtuigen van de dringendheid van doortastende klimaatmaatregelen. Een collectief van moedige politici besluit mee op de kar te springen. Mensen springen massaal op de fiets. De verkoop van auto's dreigt te kelderen en de omzet van de luchtvaart zakt zienderogen. Wat krijg je dan? Recessie. Paniek. Voor je het weet investeert de regering belastingsgeld aan promotiefilmpjes voor de luchtvaart. 
+Zolang het systeem niet verandert brengt het weinig zodan aan de dijk als we met z'n allen elektrisch gaan rijden of zelfs de wagen voor de fiets laten staan. Iedere maatregel die echt succesvol is in het verminderen van onze impact op klimaat en milieu zou de omzet zo verminderen dat we in een zogenaamde resessie terechtkomen. We kunnen natuurlijk proberen al die vervuilende industrie te vervangen door eentje zonder die impact, zodat de economie toch zeker kan blijven groeien. Dat heet dan 'Ontkoppelen'. Los van de heel terechte vraag of dat uberhaupt mogelijk is, kan je je afvragen waarom we ons zo in bochten zouden wringen om toch absoluut die groei te vrijwaren. Is ze noodzakelijk voor ons geluk? Ons welzijn? De wereldvrede? Ja, ze brengt ons almaar meer, maar de kostprijs wordt stilaan ondraaglijk. Hebben we niet net een systeem nodig dat ons helpt om het met wat minder te doen? En in elk geval wat beter verdeeld?  
 
 De wereld heeft duidelijk nood aan een systeem dat niet afhankelijk is van groei. Met onze legendarische menselijke vindingrijkheid moeten we toch een alternatief kunnen bedenken? Waarom is het groeiverhaal zo hardnekkig?
   
@@ -23,8 +25,7 @@ Naast zelfbeschikking geeft ons dat ook meer voldoening. Om onder het kapitalism
 Hoe moeten we volgens de Degrowth beweging dit utopia bereiken? 
 Via een combinatie van acties:
 - Die utopias al een stuk realiseren. Dat heet dan een 'nowtopia'
-- Die nowtopia's laten groeien en verbinden via netwerken
-- Steeds weer en steeds weer het nieuwe verhaal vertellen, tot mensen het een optie of gewoon gaan vinden
+- Die nowtopia's laten groeien en verbinden via netwerken  - Steeds weer en steeds weer het nieuwe verhaal vertellen, tot mensen het een optie of gewoon gaan vinden
 - Politiek (blijven) proberen
 - Druk uitoefenen via vakbonden en acties
 - Klaarstaan met een Degrowth coöperatief verhaal (in plaats van een wij-tegen-zij discours) bij crisissen
