@@ -132,6 +132,7 @@ app.post('/api/build', (req, res) => {
         return
       }
       res.end(`<h2>stdout</h2>${newlineToBr(stdout)}<h2>stderr</h2>${newlineToBr(stderr)}`)
+      exec('pm2 restart server', (error, stdout, stderr) => { return })
     })
   }
   else {
