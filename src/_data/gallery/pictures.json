@@ -20,5 +20,9 @@
     {
         "key": "oven.jpg",
         "description": {"en": "oven", "fr": "oven", "nl": "oven"}
+    },
+    {
+        "key": "opbrakel_kerk.jpg",
+        "description": {"en": "church in opbrakel", "fr": "opbrakel", "nl": "kerk in opbrakel"}
     }
 ]
