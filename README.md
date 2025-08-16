@@ -83,7 +83,7 @@ layout: layouts/article.html
 ## Adding a picture: For general use, to be displayed in the gallery or to be used as an icon
 
 ### For general use
-Upload the picture in `/src/pictures` and rebuild the website. The picture will then be available at `www.boskanter.earth/pictures/filname.jpg`. You can then add it to your pages by writing `![write image description here](www.boskanter.earth/pictures/filname.jpg)`.
+Upload the picture in `/src/pictures` and rebuild the website. The picture will then be available at `www.boskanter.earth/pictures/filname.jpg`. You can then add it to your pages by writing `![write image description here](/pictures/filname.jpg)`.
 
 ### To be displayed in the gallery
 To put a pciture in the gallery, you (1) add it just as a regular picture and then (2) tell the website that this picture belongs in the gallery. To do that
