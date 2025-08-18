@@ -49,7 +49,7 @@ let nav = [
     {
         type: "subordinated",
         title: {en: "newsletter",  fr: "newsletter",  nl: "nieuwsbrief"}, 
-        link: "newsletter/subscribe"
+        link: "https://boskanter.be/en/nieuwsbrieven/"
     },
     {
         type: "normal",
@@ -160,13 +160,14 @@ let j = nav.findIndex((p) => p ==  "insert gallery categories here")
 nav = [nav.slice(0,i), entries[0], nav.slice(i+1, j), entries[1]].flat()
 
 function link(l, locale) {
-    return ["en/", "fr/", "nl/"].includes(l.slice(0,3)) ? l : locale + "/" + l 
+	if (l.slice(0,4) == "http") { return l }
+    return ["en/", "fr/", "nl/"].includes(l.slice(0,3)) ? "/" + l : "/" + locale + "/" + l 
 }
 
 const navbar = {en: undefined, fr: undefined, nl: undefined}
 
 for (locale of ["en", "fr", "nl"]) {
-    let lis = nav.map((p) => "<li>" + (p.link ? `<a href='/${link(p.link, locale)}'>` : "") + p.title[locale] + (p.link ? "</a>" : ""))
+    let lis = nav.map((p) => "<li>" + (p.link ? `<a href='${link(p.link, locale)}'>` : "") + p.title[locale] + (p.link ? "</a>" : ""))
     let types = nav.map((p) => p.type == "normal");
     types.push(false);
     let s = "";
