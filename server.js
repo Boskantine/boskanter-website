@@ -164,6 +164,7 @@ app.post('/api/picturepreviews', (req, res) => {
 
 app.post("/api/sendnewsletter", async (req, res) => {
   const reqParsed = JSON.parse(req.body)
+  console.log("in /api/sendnewsletter")
   if (reqParsed.password == process.env.ADMIN_PASSWORD) {
     recipients = (reqParsed.recipients == "everybody" 
       ? (await scanCSV("mailinglist.csv", (output, row) => { output.arr.push([row[0],row[1]]) })).arr 

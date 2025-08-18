@@ -2,22 +2,26 @@ const nodemailer = require("nodemailer")
 const dotenv = require("dotenv").config()
 const fs = require("fs")
 
-const transporter = nodemailer.createTransport({
-    host: "smtp.telenet.be",
+function createTransporter() {
+  return nodemailer.createTransport({
+    host: process.env.TELENETSERVER,
     port: 587,
     secure: false, // true for 465, false for other ports
     auth: {
-        user: "boskanter@telenet.be", 
-        pass: process.env.TELENET_PASSWORD
+        user: process.env.TELENETUSER, 
+        pass: process.env.TELENETPASSWORD
     }, 
     tls: {
         rejectUnauthorized: false
     }
-})
+  })
+}
+
+const transporter = createTransporter()
 
 async function confirmationMail(email, token) {
     await transporter.sendMail({
-        from: '"Boskanter VZW" <boskanter@telenet.be>',
+        from: process.env.MAILSENDERUSER,
         to: email,
         subject: "Confirm your email adress",
         text: `To confirm your subscription to the Boskanter newsletter, follow this link: ${process.env.DOMAIN}/en/newsletter/confirm/?${token}`,
@@ -38,6 +42,7 @@ let rules = {
 }
 
 async function sendNewsletter(recipients, text, html, title, attachments) {
+    console.log("in sendnewsletter")
     let beginning = '<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fff3d2">'
         + '<td style="padding: 20px 1em 0em 1em">' + applyStylesInline(`<h1>${title}</h1>`, styles) + "</td>"
         + "<tr><td style='padding: 0em 1em 0em 1em'>" + wrapHtmlTags(applyStylesInline(html, styles), rules) + "</td></tr>"
@@ -50,8 +55,9 @@ async function sendNewsletter(recipients, text, html, title, attachments) {
 
     for (r of recipients) {
         let middle = `${process.env.DOMAIN}/en/newsletter/unsubscribe/?${r[1]}`
-        transporter.sendMail({
-            from: '"Boskanter VZW" <boskanter@telenet.be>',
+	console.log("about to send to", r)
+        await transporter.sendMail({
+            from: process.env.MAILSENDERUSER, 
             to: r[0],
             subject: title,
             text: text + `\n\nTired of receiving these? Unsubscribe here: ${middle}`,
@@ -60,6 +66,7 @@ async function sendNewsletter(recipients, text, html, title, attachments) {
                 .filter((a) => fs.existsSync(`mail_attachements/${a}`))
                 .map((a) => ({ path: `mail_attachements/${a}` }))
         })
+	console.log("did it")
     }
 }
 
@@ -83,3 +90,11 @@ module.exports = {
     confirmationMail: confirmationMail,
     send: sendNewsletter
 }
+
+transporter.sendMail({
+        from: process.env.TELENETRUSER, 
+        to: "philipp.kusterer@proton.me",
+        subject: "Automatic email",
+        text: "This email was sent automatically via telenet"
+    })
+
