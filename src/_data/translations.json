@@ -1,6 +1,7 @@
 {
     "this_page_is_available_in": {"en": "This page is available in", "nl": "Deze site is beschikbaar in", "fr": "Ce site est disponible en"},
-    "what_we_do": {"en": "What We Do", "fr": "Ce que nous faisons", "nl": "Wat we doen"},
+    "this_page_does_not_exist": {"en": "Unfortunately this page does not exist. It might be available in a different language:", "nl": "Helaas bestaat deze pagina niet. Het is mogelijk dat het beschikbaar is in een andere taal:", "fr": "Malheureusement, cette page n'existe pas. Il peut être disponible dans une autre langue :"},
+	"what_we_do": {"en": "What We Do", "fr": "Ce que nous faisons", "nl": "Wat we doen"},
     "read_more": {"en": "read more...", "fr": "lire plus...", "nl": "lees meer..."},
     "see_uncompressed_version": {"en": "see uncompressed version", "fr": "see uncompressed version", "nl": "see uncompressed version"},
     "all_languages": {"en": "All languages", "fr": "Toutes les langues", "nl": "Alle talen"},

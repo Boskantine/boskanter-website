@@ -20,6 +20,7 @@
 			</label>
 			{{ navigation_bar[locale] | safe }} 
 		</div>
+		{% if title != "404" %}
 		<div id="languages_nav">
 			<ul>
 				<li>{{ locale }}</li>
@@ -30,6 +31,7 @@
 				{% endfor %}
 			</ul>
 		</div>
+		{% endif %}
 	</nav>
 	<main>
 		{% block content %}{% endblock %}

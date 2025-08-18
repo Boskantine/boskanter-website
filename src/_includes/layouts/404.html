@@ -1,0 +1,28 @@
+{% extends 'layouts/base.html' %}
+
+{% block css %}
+    <link rel="stylesheet" href="/css/404.css">
+{% endblock %}
+
+{% block content %}
+    <h1>{{ title }}</h1>
+	<p>{{ translations.this_page_does_not_exist[locale] }}</p>
+		<ul>
+			<li id="0"></li>
+			<li id="1"></li>
+		</ul>
+	<script>
+		var url = window.location.pathname;
+		var locale = url.slice(0,3);
+		var rest = url.slice(3);
+
+		var otherLocales = ["/en","/fr","/nl"].filter((l) => l != locale);
+		var links = otherLocales.map((l) => l += rest);
+
+		var lis = ["0","1"].map((id) => document.getElementById(id));
+		for (i in lis) {
+			lis[i].innerHTML = "<a href='" + links[i] + "'>" + otherLocales[i].slice(1) + "</a>";
+		}
+
+	</script>
+{% endblock %}
