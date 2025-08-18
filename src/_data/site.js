@@ -14,5 +14,6 @@ module.exports = {
     nl: {
         metaTitle: "Boskanter",
         metaDescription: "Dat is de website van Boskanter VZW",
-    }
+    },
+	newsletterlink: "https://boskanter.be/en/nieuwsbrieven/"
   };

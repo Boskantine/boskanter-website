@@ -21,7 +21,11 @@
                 <h3>{{ h.title[locale] }}</h3>
                 <p>{{ h.description[locale] | safe }}</p>
                 <p>
-                    <a href="/{% if r/^(en|fr|nl)\//.test(h.link) %}{{ h.link }}{% else %}{{ locale }}/{{ h.link }}{% endif %}">
+					{% if r/^https?:\/\//.test(h.link) %}
+						<a href="{{ h.link }}">
+					{% else %}
+                    	<a href="/{% if r/^(en|fr|nl)\//.test(h.link) %}{{ h.link }}{% else %}{{ locale }}/{{ h.link }}{% endif %}">
+					{% endif %}
                         {{ translations.read_more[locale] }}
                     </a>
                 </p>
