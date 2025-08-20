@@ -83,7 +83,14 @@ layout: layouts/article.html
 ## Adding a picture: For general use, to be displayed in the gallery or to be used as an icon
 
 ### For general use
-Upload the picture in `/src/pictures` and rebuild the website. The picture will then be available at `www.boskanter.earth/pictures/filname.jpg`. You can then add it to your pages by writing `![write image description here](/pictures/filname.jpg)`.
+Upload the picture in `/src/pictures` rebuild the website. The picture will then be available at `www.boskanter.earth/pictures/filname.jpg`. You can then add it to your pages by writing `![write image description here](/pictures/filname.jpg)`.
+
+Tipp for advanced Energysavers: You can also include the picture as a preview just as in the galery. For that add the picture to the galery as explained below, and add the preview in your markdown code via
+
+```
+{% preview "<filename>", "<subtitles>" %}
+```
+You can also write `""` if you dont want to have subtitles.
 
 ### To be displayed in the gallery
 To put a pciture in the gallery, you (1) add it just as a regular picture and then (2) tell the website that this picture belongs in the gallery. To do that
