@@ -36,6 +36,13 @@ module.exports = function(eleventyConfig) {
     },
   });
   
+  eleventyConfig.addShortcode('preview', (picture, subtitles) => `
+	<div class="preview"> 
+    <img src="/picturepreviews/${picture}"><br>
+	  ${subtitles}` + (subtitles == "" ? "" : "<br>") +
+  	  `<a href="/pictures/${picture}">see uncompressed version</a>
+	</div>
+  `)
 
   eleventyConfig.addFilter("extractSubjects", function(col) {
     let subjects = []

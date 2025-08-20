@@ -33,6 +33,13 @@ body {
     margin: 0em;
 }
 
+.preview {
+	text-align: center;
+	img {
+		padding: 1em;
+	}
+}
+
 main {
     min-height: 5em;
     flex: 1;
