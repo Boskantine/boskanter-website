@@ -49,6 +49,31 @@ app.post('/api/blog/search', (req, res) => {
   })))
 })
 
+t
+// build
+
+function newlineToBr(std) {
+  return std.split("").map((c) => (c == "\n") ? "<br>" : c).join("")
+}
+
+app.post('/api/build', (req, res) => {
+  if (req.body == process.env.ADMIN_PASSWORD) {
+    exec('git pull; eleventy', (error, stdout, stderr) => {
+      if (error) {
+        res.end(`<h2>error</h2>${newlineToBr(error.toString())}`)
+        return
+      }
+      res.end(`<h2>stdout</h2>${newlineToBr(stdout)}<h2>stderr</h2>${newlineToBr(stderr)}`)
+      exec('pm2 restart server', (error, stdout, stderr) => { return })
+    })
+  }
+  else {
+    res.end("The password was not correct")
+  }
+})
+
+
+
 // Gallerypictures nach Kategorie
 
 app.post('/api/gallery/picturesbycategory', (req, res) => {
