@@ -49,7 +49,7 @@ app.post('/api/blog/search', (req, res) => {
   })))
 })
 
-t
+
 // build
 
 function newlineToBr(std) {
