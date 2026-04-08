@@ -29,7 +29,7 @@ Sommige vrijwilligers vinden ons via een gesubsidieerd programma, zoals  [ESC](h
 Alle vrijwilligers zijn verzekerd voor ongevallen op en op weg naar Boskanter (binnen België), en voor burgerlijke aansprakelijkheid. ESC-vrijwilligers genieten deze verzekeringen ook voor het stuk van hun reis buiten België.
 
 ## Vergoedingen
-Vrijwilligers krijgen een vergoeding voor reële onkosten (bijvoorbeeld als ze voor Boskanter een spade gaan kopen). Na overleg en in uitzonderlijke gevallen kunnen plaatselijke vrijwilligers ook een vergoeding krijgen voor hun verplaatsingsonkosten, of een forfait onkostenvergoeding (per kalenderjaar niet verenigbaar met reële onkostenvergoeding). Dirk en Ine werken als vrijwilliger voor het begeleiden van het dagelijks werk, de VZW administratie, de workshops, de reparaties en verbouwingen, ... Ze schrijven (als zelfstandige) een beperkte factuur uit voor ESC administratie en communicatie, sommig (machinaal) tuinwerk en coachen van de vrijwilligers.
+Vrijwilligers krijgen een vergoeding voor reële onkosten (bijvoorbeeld als ze voor Boskanter een spade gaan kopen). Na overleg en in uitzonderlijke gevallen kunnen plaatselijke vrijwilligers ook een vergoeding krijgen voor hun verplaatsingsonkosten, of een forfait onkostenvergoeding (per kalenderjaar niet verenigbaar met reële onkostenvergoeding). De vrijwilligers binnen het ESC-programma krijgen 6€ 'zakgeld' per dag en een vergoeding van 2,5€ per dag voor uitstappen. Dirk en Ine werken als vrijwilliger voor het begeleiden van het dagelijks werk, de VZW administratie, de workshops, de reparaties en verbouwingen, ... Ze schrijven (als zelfstandige) een beperkte factuur uit voor ESC administratie en communicatie, sommig (machinaal) tuinwerk en coachen van de vrijwilligers.
 
 
 
