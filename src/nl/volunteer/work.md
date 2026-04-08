@@ -48,13 +48,14 @@ Hieronder vind je een lijst van mogelijke taken en engagementen, een beetje geor
 - schrijven voor de Boskanter website en blog
 ## helpen bij activiteiten
 - pizza's helpen bakken op het pizzafeest
-- achter de (limonade)bar staan op het pizzafeest
+- achter de (limonade)bar staan op het pizzafeest; limonades ontwerpen
 - een vorming komen geven
 - een crafts moment of een momo begeleiden
 ## bouw en constructie
 - helpen bij kleine verbouwwerken: leempleister, natuurverf, houtconstructie, ...
 - creatieve (groenhout) constructies in en rond de schuur, in de vrijwillgerskamers, tuinmeubelen, ...
 - het werkmateriaal voor vrijwilligers organiseren, herstellen
+- vrijwilligersfietsen en bakfiets onderhouden
 ## begeleiding
 - een rondleiding geven aan nieuwe vrijwilligers
 - de internationale vrijwilligers wegwijs maken in de buurt
