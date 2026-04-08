@@ -9,3 +9,5 @@ Op onze [pizzafeestjes](pizzaparty), [ambachtsdagen](crafts) en occasionele ande
 We delen in de (beperkte) mate van het mogelijke onze [producten](products).
 
 [We delen graag onze plek als je hier iets wil organiseren in de lijn van waar Boskanter mee bezig is.](location)
+
+[Sommige mensen komen naar een activiteit en blijven langer dan voorzien ...](cohousen)
