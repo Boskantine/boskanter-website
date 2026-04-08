@@ -12,7 +12,9 @@ Ook Belgische vrijwilligers maken daarvan soms gebruik.
 
 ### lange termijn
 
-We kunnen twee, maximum drie **lange termijn vrijwilligers** hosten. Die blijven, na een wederzijdse proefperiode, meerdere maanden. Ze logeren bij het gezin in het woonhuis. Ze ondersteunen het beheer van de boerderij en het ontvangen van korte termijn vrijwilligers. Ze zijn meer betrokken bij het planten, organiseren en beslissen. Vaardigheden die meer tijd vragen om te beheersen zijn voor hen een optie. Denk aan zuurdesem brood bakken in de steenoven, fietsen herstellen, een eigen stukje van de tuin beheren, wilgenmandjes maken, ... Lange termijn vrijwilligers kunnen ook helpen bij de communicatie, website of administratie.
+We kunnen twee, maximum drie **lange termijn vrijwilligers** hosten. Die blijven, na een wederzijdse proefperiode, meerdere maanden. Ze logeren bij het gezin in het woonhuis. We starten dus, min of meer informeel, met een soort 'proefperiode' om te zien of het wel een beetje klikt. Ze ondersteunen het beheer van de boerderij en het ontvangen van korte termijn vrijwilligers. Ze zijn meer betrokken bij het planten, organiseren en beslissen. Vaardigheden die meer tijd vragen om te beheersen zijn voor hen een optie. Denk aan zuurdesem brood bakken in de steenoven, fietsen herstellen, een eigen stukje van de tuin beheren, wilgenmandjes maken, ... Lange termijn vrijwilligers kunnen ook helpen bij de communicatie, website of administratie.
+
+In de winter hebben we alleen vrijwilligers in het kader van een langer verblijf, bijvoorbeeld blijven plakken na het najaar, een schooljaar of een kalenderjaar willen komen en dus ook de winter willen meepikken.
 
 Wil je voor langere tijd komen, kijk dan zeker of je in aanmerking komt voor de [ESC of Bel-J subsidies](/nl/volunteer/subsidy#ESC). Ook niet-gesubsidieerde vrijwilligers kunnen voor een langere tijd blijven.
 
