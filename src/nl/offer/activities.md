@@ -35,7 +35,7 @@ We organiseren er maximum 10 per jaar. Meestal zijn de feestjes op zaterdagavond
 
 Kom bij voorkeur te voet, per fiets of openbaar vervoer. Wie met de auto komt parkeert best in de Leinstraat en komt daarna te voet. Even oprijden om passagiers te droppen die moeilijk te been zijn of een bijdrage aan de maaltijd af te zet kan natuurlijk wel.
 
-Eigen bijdrage kan zowel hartig als zoek zijn. Bij voorkeur een typisch Boskanter gerecht (zelfgemaakt, lokaal, vegetarisch of verantwoord vlees, ...), maar elke bijdrage wordt op prijs gesteld.
+Eigen bijdrage kan zowel hartig als zoet zijn. Bij voorkeur een typisch Boskanter gerecht (zelfgemaakt, lokaal, vegetarisch of verantwoord vlees, ...), maar elke bijdrage wordt op prijs gesteld.
 
 ---
 
@@ -47,7 +47,7 @@ Samen bezig zijn met ambacht. Samen is leuk, anders komt het er niet van en we k
 
 ### Wanneer?
 
-Als er voldoende lange termijn of lokale vrijwilligers zijn om het te organiseren. In het ideale geval kan dit wekelijks op een vast moment. Tijdens de zomermaanden 2025 trekken we er iedere woensdagnamiddag voor uit, van 14u00 tot 16u00. Waarschijnlijk is het geen probleem om ook na 16u00 te blijven 'plakken' of doordoen, maar er zal geen begeleiding meer zijn. 
+Als er voldoende lange termijn of lokale vrijwilligers zijn om het te organiseren. In het ideale geval kan dit wekelijks op een vast moment. Vanaf half juli 2026 doen we het waarschijnlijk iedere woensdagnamiddag, van 14u00 tot 16u00. Waarschijnlijk is het geen probleem om ook na 16u00 te blijven 'plakken' of doordoen, maar er zal geen begeleiding meer zijn. 
 
 ### Praktisch
 
@@ -83,7 +83,7 @@ Wil je graag ons project leren kennen, dan kan je meedoen aan een rondleiding. D
 
 Een kampeerweek wordt meestal in de zomervakantie geörganiseerd (zie kalender). Het is, net zoals het pizzafeestje, een laagdrempelige manier om kennis te maken, te proeven en te verbinden.
 Je kan op twee manieren deelnemen: 'vrijwilliger light' of betalend.
-- Als 'vrijwilliger light' werk je mee in ruil voor eten en een kampeerplekje, alleen is het een light versie van werken. Er is meer ruimte voor uitslapen en vakantieactiviteiten zoals (samen) wandelen, volleyballen of gaan zwemmen in de Gavers. Het werk wordt meer gedaan omdat het leuk is om samen iets aan te pakken.
+- Als 'vrijwilliger light' werk je mee in ruil voor eten en een kampeerplekje, alleen is het een light versie van werken. Er is meer ruimte voor uitslapen en vakantieactiviteiten zoals (samen) wandelen, volleyballen of gaan zwemmen in de Gavers. Het werk wordt (nog) meer (dan anders) gedaan omdat het leuk is om samen iets aan te pakken.
 - Als je betaalt, dan leg je 12€ per persoon per dag neer voor eten en logies. Je helpt dan alleen mee met het 'huishouden' (koken, afwassen, opruimen) en moet er verder niet mee zitten als je niet wil of kan werken.
 
 ---
