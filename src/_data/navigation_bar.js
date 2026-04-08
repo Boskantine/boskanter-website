@@ -63,6 +63,16 @@ let nav = [
     },
     {
         type: "subordinated",
+        title: {en: "pizzaparty",  fr: "pizzaparty",  nl: "pizzafeest"}, 
+        link: "offer/pizzaparty"
+    },
+	{
+        type: "subordinated",
+        title: {en: "crafts",  fr: "artisanat",  nl: "ambachten"}, 
+        link: "offer/crafts"
+    },
+	{
+        type: "subordinated",
         title: {en: "activities",  fr: "activités",  nl: "activiteiten"}, 
         link: "offer/activities"
     },
@@ -82,6 +92,11 @@ let nav = [
         link: "volunteer/local"
     },  
     {
+        type: "subordinated",
+        title: {en: "cohousing",  fr: "co-habitat",  nl: "samenwonen"}, 
+        link: "offer/cohousing"
+    },
+	{
         type: "normal",
         title: {en: "calendar",  fr: "calendrier",  nl: "kalender"},  
         link: "calendar"
