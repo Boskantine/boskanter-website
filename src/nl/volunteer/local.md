@@ -2,9 +2,12 @@
 title: buurtvrijwilliger in Boskanter
 layout: layouts/article.html
 ---
-Boskanter heeft een rijke traditie van werken met internationale vrijwilligers. Nu willen we graag meer buurtvrijwilligers betrekken. Die kunnen makkelijker een lange tijd meedraaien. Daardoor kunnen ze makkelijker een ondersteunende, waardoor er weer meer mogelijk wordt. Omdat plaatselijke vrijwilligers de situatie, structuren en culturen in de buurt beter kennen, kunnen ze ook een grote rol spelen in het uitbouwen van lokale netwerken en het vergroten van onze lokale inpact.
+Boskanter heeft een rijke traditie van werken met internationale vrijwilligers, en minder met plaatselijke vrijwillgers. 
+Daar willen we graag verandering in brengen!
 
 Als plaatselijke vrijwilliger kan je op Boskanter terecht op regelmatige basis (bijvoorbeeld een halve dag per week) of op onregelmatige basis, als er een oproep is voor een werkje of als je er zelf aan toe bent.
+
+Mensen die de organisatie mee dragen, zijn extra welkom. Met hoe meer we zijn, hoe meer we met Boskanter kunnen bereiken. Er liggen nog heel veel projecten op de planken! Mee dragen kan bijvoorbeeld door de buitenlandse vrijwilligers wegwijs te maken in de buurt, een stukje van de tuin te adopteren, iets te schrijven voor de website, een project uit te werken, ...
 
 [Hier vind je een lijst met mogelijkheden.](/nl/volunteer/work)
 
@@ -15,6 +18,4 @@ Als plaatselijke vrijwilliger kan je op Boskanter terecht op regelmatige basis (
 - Je kan delen in de oogst en de producten van het land.
 - Als je graag met permacultuur aan de slag wil maar er zelf geen plek voor hebt of hier meer mogelijkheden en ondersteuning vindt.
 - leuk samen buiten bezig zijn in de natuur
-- Wil je de jongerenwerking mee ondersteunen, dan kan je deelnemen aan internationale vormingen.
-
-- 
+- Wil je de jongerenwerking mee ondersteunen, dan kan je gratis deelnemen aan meerdaagse internationale vormingen.
