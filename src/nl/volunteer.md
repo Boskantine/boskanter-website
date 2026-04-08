@@ -10,7 +10,7 @@ Er is veel potentieel, zowel op het terrein en in de tuin als digitaal, sociaal,
 [dit is een niet-limitatieve lijst van waar we hulp bij kunnen gebruiken](work/)
 
 ## Wie kan komen vrijwilligen?
-Vrijwilligers uit de (verre) buurt kunnen [nu en dan langskomen](local/), maar ze kunne ook, zoals de internationale vrijwilligers, [een tijdje blijven logeren](stay/). 
+Vrijwilligers uit de (verre) buurt kunnen [nu en dan langskomen](local/), maar ze kunnen ook, zoals de internationale vrijwilligers, [een tijdje blijven logeren](stay/). 
 
 Verder kan je de vrijwilligers ook praktisch opdelen in
 
