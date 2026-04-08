@@ -20,7 +20,9 @@ Verder kan je de vrijwilligers ook praktisch opdelen in
 Sommige vrijwilligers vinden ons via een gesubsidieerd programma, zoals  [ESC](https://youth.europa.eu/solidarity_nl) of [Bel-J](https://bel-j.be), andere komen [meewerken in ruil voor kost en inwoon](stay/) via [workaway](https://www.workaway.info) of [HelpX](http://helpx.net).
 
 [hier vind je alle info over meewerken op Boskanter als plaatselijke vrijwilliger](local/)
+
 [wil je weten hoe je voor een tijdje mee draait op de boerderij, kijk dan even hier](stay/)
+
 [meer info over de gesubsidieerde programma's vind je hier](subsidy/)
 
 ## Verzekering
