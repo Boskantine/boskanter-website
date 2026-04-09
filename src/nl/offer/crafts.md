@@ -1,5 +1,5 @@
 ---
-title: Activiteiten
+title: Ambachten
 layout: layouts/article.html
 ---
 ## <a name = "ambachten"></a> Ambachten namiddagen of avonden

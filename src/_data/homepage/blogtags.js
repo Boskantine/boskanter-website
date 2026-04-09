@@ -8,6 +8,7 @@ for (locale of ['en', 'fr', 'nl']) {
     for (file of fs.readdirSync(`src/${locale}/blog/posts`)) {
         if (file == "posts.json") {continue}
         let h = fs.readFileSync(`src/${locale}/blog/posts/${file}`, { encoding: 'utf8' }).split('---\n')[1]
+		if (h === undefined) {continue}
         let attributes = new Map(h.split('\n').map((l) => l.split(': ')))
         if (attributes.has("blogtags")) {
             for (t of attributes.get("blogtags").split(", ")) {
