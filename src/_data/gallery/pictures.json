@@ -2,7 +2,7 @@
     {
         "key": "brood-op-ovenschep.jpg",
         "date": "10.1.2024",
-        "category": "food",
+        "category": "food","activity"
         "description": {"en": "bread", "fr": "pain", "nl": "brood"}
     },
     {
@@ -21,5 +21,26 @@
         "key": "oven.jpg",
         "category": "activity","food"
         "description": {"en": "oven", "fr": "oven", "nl": "oven"}
+    },
+    {
+        "key": "boomgaardwandeling.jpg",
+        "category": "activity","environment","garden"
+        "description": {"en": "orchard", "fr": "verger", "nl": "boomgaard"}
+    },
+    {
+        "key": "brakelbos.jpg",
+        "category": "environment"
+        "description": {"en": "brakelbos", "fr": "brakelbos", "nl": "brakelbos"}
+    },
+    {
+        "key": "brood-op-rek.jpg",
+        "category": "food","activity"
+        "description": {"en": "bread on rack", "fr": "pain", "nl": "brood op rek"}
+    },
+    {
+        "key": "brooddeeg.jpg",
+        "category": "food"
+        "description": {"en": "rising bread", "fr": "pain levant", "nl": "rijzend brood"}
     }
+]
 ]
