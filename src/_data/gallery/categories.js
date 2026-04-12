@@ -32,6 +32,14 @@ const categories = [
     {
         key: "crafts",
         title: {en: "crafts", fr: "artisanat", nl: "ambachten"}
+    },
+    {
+        key: "construction",
+        title: {en: "construction", fr: "construction", nl: "verbouwingen"}
+    },
+    {
+        key: "nature",
+        title: {en: "nature", fr: "nature", nl: "natuur"}
     }
 ]
 
