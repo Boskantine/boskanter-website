@@ -2,23 +2,24 @@
     {
         "key": "brood-op-ovenschep.jpg",
         "date": "10.1.2024",
-        "category": "something",
+        "category": "food",
         "description": {"en": "bread", "fr": "pain", "nl": "brood"}
     },
     {
         "key": "pizzafeestje.jpg",
         "date": "10.1.2024",
-        "category": "something",
+        "category": "food","activity"
         "description": {"en": "pizza party", "fr": "pizza", "nl": "pizzafeestje"}
     },
     {
-        "key": "IMG_3012.jpg",
+        "key": "Boskanter-flespompoenen.jpg",
         "date": "27.7.2025",
-        "category": "something",
-        "description": {"en": "laundry", "fr": "laundry", "nl": "was"}
+        "category": "garden","food"
+        "description": {"en": "pumpkin", "fr": "potimaron", "nl": "pompoen"}
     },
     {
         "key": "oven.jpg",
+        "category": "activity","food"
         "description": {"en": "oven", "fr": "oven", "nl": "oven"}
     }
 ]
