@@ -2,7 +2,8 @@
 title: wat is er te doen?
 layout: layouts/article.html
 ---
-Er zijn altijd verschillende jobs te doen. Het werk is dus divers. Je kan het een stuk zelf in handen nemen. Natuurlijk moet iedereen wel mee dat werk doen dat niemand wil en dat toch gedaan moet worden.
+Iedereen helpt mee met de basis, het huishouden, wat nu eenmaal moet gebeuren. Daarnaast is het werk heel divers. 
+Het werk is dus divers. Je kan het een stuk zelf in handen nemen. Natuurlijk moet iedereen wel mee dat werk doen dat niemand wil en dat toch gedaan moet worden.
 
 Hoe langer je blijft, hoe meer je kan kiezen en hoe meer je ook je eigen projecten kan opzetten en richting geven aan je werk.
 
