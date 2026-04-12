@@ -4,12 +4,9 @@ layout: layouts/article.html
 ---
 ## buurtvrijwilligers
 
-Boskanter heeft een rijke traditie van samenwerken met internationale vrijwilligers, en minder met plaatselijke. 
-Daar willen we verandering in brengen!
+Buurtvrijwilligers komen op vaste momenten (bijvoorbeeld een halve dag per week), als er iets te doen is of als ze er zelf zin in hebben. 
 
-Als plaatselijke vrijwilliger kan je op Boskanter terecht op regelmatige basis (bijvoorbeeld een halve dag per week) of op onregelmatige basis, als er een oproep is voor een werkje of als je er zelf aan toe bent. 
-
-Mensen die de organisatie mee dragen, zijn extra welkom. Met hoe meer we zijn, hoe meer we met Boskanter kunnen bereiken. Er liggen nog heel veel projecten op de planken! Mee dragen kan bijvoorbeeld door de buitenlandse vrijwilligers wegwijs te maken in de buurt, een stukje van de tuin te adopteren, iets te schrijven voor de website, een project uit te werken, ...
+Mensen die de organisatie mee dragen, zijn extra welkom. Met hoe meer we zijn, hoe meer we kunnen bereiken. Er liggen nog  veel toffe projecten op de plank! Mee dragen kan bijvoorbeeld door de buitenlandse vrijwilligers wegwijs te maken in de buurt, een stukje van de tuin te adopteren, iets te schrijven voor de website, een project uit te werken, ...
 
 [Hier vind je een lijst met mogelijkheden.](/nl/volunteer/work)
 
