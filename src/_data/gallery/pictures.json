@@ -2,13 +2,13 @@
     {
         "key": "brood-op-ovenschep.jpg",
         "date": "10.1.2024",
-        "category": "food","activity",
+        "category": "food","activities",
         "description": {"en": "bread", "fr": "pain", "nl": "brood"}
     },
     {
         "key": "pizzafeestje.jpg",
         "date": "10.1.2024",
-        "category": "food","activity",
+        "category": "food","activities",
         "description": {"en": "pizza party", "fr": "pizza", "nl": "pizzafeestje"}
     },
     {
@@ -19,12 +19,12 @@
     },
     {
         "key": "oven.jpg",
-        "category": "activity","food",
+        "category": "activities","food",
         "description": {"en": "oven", "fr": "oven", "nl": "oven"}
     },
     {
         "key": "boomgaardwandeling.jpg",
-        "category": "activity","environment","garden",
+        "category": "activities","environment","garden",
         "description": {"en": "orchard", "fr": "verger", "nl": "boomgaard"}
     },
     {
@@ -34,7 +34,7 @@
     },
     {
         "key": "brood-op-rek.jpg",
-        "category": "food","activity",
+        "category": "food","activities",
         "description": {"en": "bread on rack", "fr": "pain", "nl": "brood op rek"}
     },
     {
