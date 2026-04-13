@@ -2,7 +2,7 @@
     {
         "key": "brood-op-ovenschep.jpg",
         "date": "10.1.2024",
-        "category": "food",
+        "category": "food","activities",
         "description": {"en": "bread", "fr": "pain", "nl": "brood"}
     }
 ]
