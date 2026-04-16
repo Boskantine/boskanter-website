@@ -31,12 +31,52 @@
     },
     {
         "key": "coach.jpg",
-        "category": "accomodation",
+        "category": "accommodation",
         "description": {"en": "coach in the volunteers room", "fr": "siège dans la salle des bénévoles", "nl": "zetel in de vrijwilligersruimte"}
     },
     {
         "key": "gardening.jpg",
         "category": "garden",
         "description": {"en": "volunteers weeding a raised garden bed", "fr": "Des bénévoles désherbent une plate-bande surélevée", "nl": "Vrijwilligers wieden een verhoogd bed"}
+    },
+    {
+        "key": "hout.jpg",
+        "category": "surrounding",
+        "description": {"en": "wood drying to be cut", "fr": "séchage du bois destiné à être scié", "nl": "hout dat droogt om gekliefd te worden"}
+    },
+    {
+        "key": "kinderopvang.jpg",
+        "category": "activities",
+        "description": {"en": "activity for the day-care centre of Brakel", "fr": "activité organisée pour la crèche de Brakel", "nl": "activiteit voor de kinderopvang van Brakel"}
+    },
+    {
+        "key": "kitchen.jpg",
+        "category": "accommodation",
+        "description": {"en": "volunteers at work in the kitchen", "fr": "des bénévoles dans la cuisine", "nl": "vrijwilligers aan het werk in de keuken"}
+    },
+    {
+        "key": "lammetjes.jpg",
+        "category": "surrounding",
+        "description": {"en": "lambs", "fr": "agneaux", "nl": "lammetjes"}
+    },
+    {
+        "key": "koolrabi.jpg",
+        "category": "volunteers",
+        "description": {"en": "Luka and the koolrabi", "fr": "Luka et le chou-rave", "nl": "Luka en de koolrabi"}
+    },
+    {
+        "key": "leemtrappel.jpg",
+        "category": "construction",
+        "description": {"en": "trample cob", "fr": "trépigner l'argile", "nl": "leem trappelen"}
+    },
+    {
+        "key": "painted_volunteers.jpg",
+        "category": "volunteers",
+        "description": {"en": "make-up", "fr": "maquillage", "nl": "maquillage"}
+    },
+    {
+        "key": "pasta.jpg",
+        "category": "food",
+        "description": {"en": "pasta", "fr": "pasta", "nl": "pasta"}
     }
 ]
