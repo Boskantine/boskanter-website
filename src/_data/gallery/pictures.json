@@ -18,5 +18,25 @@
         "key": "brakelbos.jpg",
         "category": "surrounding",
         "description": {"en": "view on Brakelbos from Boskanter edge", "fr": "vue sur le bois de Brakel", "nl": "zicht op Brakelbos vanaf de hoek van Boskanter"}
+    },
+    {
+        "key": "brood-op-rek.jpg",
+        "category": "activities",
+        "description": {"en": "breads on shelf, fresh from the oven", "fr": "pain, frais du four", "nl": "brood op het rek, vers uit de oven"}
+    },
+    {
+        "key": "brooddeeg.jpg",
+        "category": "food",
+        "description": {"en": "proofing breaddough", "fr": "pâte à pain en train de lever", "nl": "rijzend brooddeeg"}
+    },
+    {
+        "key": "coach.jpg",
+        "category": "accomodation",
+        "description": {"en": "coach in the volunteers room", "fr": "siège dans la salle des bénévoles", "nl": "zetel in de vrijwilligersruimte"}
+    },
+    {
+        "key": "gardening.jpg",
+        "category": "garden",
+        "description": {"en": "volunteers weeding a raised garden bed", "fr": "Des bénévoles désherbent une plate-bande surélevée", "nl": "Vrijwilligers wieden een verhoogd bed"}
     }
 ]
