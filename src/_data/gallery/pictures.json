@@ -1,8 +1,22 @@
 [
     {
         "key": "brood-op-ovenschep.jpg",
-        "date": "10.1.2024",
-        "category": "food", "accomodation",
-        "description": {"en": "bread", "fr": "pain", "nl": "brood"}
+        "category": "food",
+        "description": {"en": "desem bread", "fr": "pain au levain", "nl": "desembrood"}
+    },
+    {
+        "key": "Boskanter-flespompoenen.jpg",
+        "category": "garden",
+        "description": {"en": "pumpkins for sale", "fr": "potimaron à vendre", "nl": "pompoenen te koop"}
+    },
+    {
+        "key": "boomgaardwandeling.jpg",
+        "category": "surrounding",
+        "description": {"en": "tour in the orchard", "fr": "tour dans le verger", "nl": "rondleiding in de boomgaard"}
+    },
+    {
+        "key": "brakelbos.jpg",
+        "category": "surrounding",
+        "description": {"en": "view on Brakelbos from Boskanter edge", "fr": "vue sur le bois de Brakel", "nl": "zicht op Brakelbos vanaf de hoek van Boskanter"}
     }
 ]
