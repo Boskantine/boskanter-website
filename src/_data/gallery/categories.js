@@ -6,7 +6,7 @@ const categories = [
         title: {en: "All categories", fr: "Toutes les catégories", nl: "Alle categorieën"}
     },
     {
-        key: "accomodation",
+        key: "accommodation",
         title: {en: "accomodation", fr: "accomodation", nl: "accomodatie"}
     },
     {
@@ -38,8 +38,8 @@ const categories = [
         title: {en: "construction", fr: "construction", nl: "verbouwingen"}
     },
     {
-        key: "nature",
-        title: {en: "nature", fr: "nature", nl: "natuur"}
+        key: "animals",
+        title: {en: "animals", fr: "animaux", nl: "dieren"}
     }
 ]
 
