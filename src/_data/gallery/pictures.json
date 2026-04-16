@@ -148,45 +148,5 @@
         "key": "toothbrushroom.jpg",
         "category": "accommodation",
         "description": {"en": "volunteer bathroom for toothbrushing and cat-wash", "fr": "salle de bains dans la grange pour se brosser les dents et se laver à main", "nl": "badkamertje in de schuur voor tandenpoets en hadwas"}
-    },
-    {
-        "key": "vlechtje.jpg",
-        "category": "construction",
-        "description": {"en": "woven willow for a cob wall", "fr": "osier tressé pour un muret en torchis", "nl": "wilgen vlechtwerk voor een lemen muurtje"}
-    },
-    {
-        "key": "vorming-bakken.jpg",
-        "category": "activities",
-        "description": {"en": "workshop baking desem bread", "fr": "atelier de fabrication de pain au levain", "nl": "vorming zuurdesembrood bakken"}
-    },
-    {
-        "key": "vrijwilligerstafel.jpg",
-        "category": "volunteers",
-        "description": {"en": "eating together", "fr": "manger ensemble", "nl": "samen eten"}
-    },
-    {
-        "key": "weelbarrowapples.jpg",
-        "category": "food",
-        "description": {"en": "let's make apple juice", "fr": "Préparons du jus de pomme", "nl": "laten we appelsap maken!"}
-    },
-    {
-        "key": "wolmand-2.jpg",
-        "category": "crafts",
-        "description": {"en": "spinning", "fr": "tisser", "nl": "spinnen"}
-    },
-    {
-        "key": "woodcarving1.jpg",
-        "category": "crafts",
-        "description": {"en": "name plates for fruit trees with hammer and shisel", "fr": "plaques d'identification pour arbres fruitiers au marteau et burin", "nl": "naamplaatjes voor de fruitbomen met hamer en beitel"}
-    },
-    {
-        "key": "woodcarving2.jpg",
-        "category": "garden",
-        "description": {"en": "name plates for fruit trees with hammer and shisell", "fr": "lplaques d'identification pour arbres fruitiers au marteau et burin", "nl": "naamplaatjes voor de fruitbomen met hamer en beitel"}
-    },
-    {
-        "key": "zetelbuiten.jpg",
-        "category": "accommodation",
-        "description": {"en": "front of the barn", "fr": "devant la grange", "nl": "voorkant van de schuur"}
      }
 ]
