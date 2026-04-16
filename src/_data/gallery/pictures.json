@@ -78,5 +78,115 @@
         "key": "pasta.jpg",
         "category": "food",
         "description": {"en": "pasta", "fr": "pasta", "nl": "pasta"}
-    }
+    },
+    {
+        "key": "brood-op-ovenschep.jpg",
+        "category": "food",
+        "description": {"en": "desem bread", "fr": "pain au levain", "nl": "desembrood"}
+    },
+    {
+        "key": "rocketstove.jpg",
+        "category": "construction",
+        "description": {"en": "lighting a small rocket stove", "fr": "allumer un petit rocket stove", "nl": "een kleine rocket stove aansteken"}
+    },
+    {
+        "key": "boomgaardwandeling.jpg",
+        "category": "surrounding",
+        "description": {"en": "tour in the orchard", "fr": "tour dans le verger", "nl": "rondleiding in de boomgaard"}
+    },
+    {
+        "key": "room1.jpg",
+        "category": "accommodation",
+        "description": {"en": "one of the sleeming rooms", "fr": "une chambre à dormir", "nl": "een slaapkamer"}
+    },
+    {
+        "key": "room2.jpg",
+        "category": "accommodation",
+        "description": {"en": "one of the sleeming rooms", "fr": "une chambre à dormir", "nl": "een slaapkamer"}
+    },
+    {
+        "key": "rope.jpg",
+        "category": "crafts",
+        "description": {"en": "making rope from grasses", "fr": "fabrication de cordes à partir de graminées", "nl": "touw maken van grassen"}
+    },
+    {
+        "key": "sauna-bathhouse.jpg",
+        "category": "accommodation",
+        "description": {"en": "sauna or bathouse", "fr": "sauna ou hammam", "nl": "sauna of badhuis"}
+    },
+    {
+        "key": "schaapjes.jpg",
+        "category": "surrounding",
+        "description": {"en": "sheep at the edge of the forrest", "fr": "des moutons à l'orée de la forêt", "nl": "schaapjes aan de bosrand"}
+    },
+    {
+        "key": "schuur.jpg",
+        "category": "accommodation",
+        "description": {"en": "barn or volunteer residence", "fr": "grange ou gîte pour bénévoles", "nl": "schuur of vrijwilligersverblijf"}
+    },
+    {
+        "key": "seedlings.jpg",
+        "category": "garden",
+        "description": {"en": "we grow up our own seedlings", "fr": "nous cultivons nos propres plants", "nl": "we kweken ons eigen plantgoed op"}
+    },
+    {
+        "key": "spoon.jpg",
+        "category": "crafts",
+        "description": {"en": "spoon on the way", "fr": "cuillère en cours de fabrication", "nl": "lepel in de maak"}
+    },
+    {
+        "key": "toilet.jpg",
+        "category": "accommodation",
+        "description": {"en": "compost toilet", "fr": "toilette seche", "nl": "komposttoilet"}
+    },
+    {
+        "key": "tomaat-rotated.jpg",
+        "category": "garden",
+        "description": {"en": "tomatoes and basil in the tunnel", "fr": "les tomates et le basilique dans le tunnel", "nl": "tomaten en basilicum in de tunnel"}
+    },
+    {
+        "key": "toothbrushroom.jpg",
+        "category": "accommodation",
+        "description": {"en": "volunteer bathroom for toothbrushing and cat-wash", "fr": "salle de bains dans la grange pour se brosser les dents et se laver à main", "nl": "badkamertje in de schuur voor tandenpoets en hadwas"}
+    },
+    {
+        "key": "vlechtje.jpg",
+        "category": "construction",
+        "description": {"en": "woven willow for a cob wall", "fr": "osier tressé pour un muret en torchis", "nl": "wilgen vlechtwerk voor een lemen muurtje"}
+    },
+    {
+        "key": "vorming-bakken.jpg",
+        "category": "activities",
+        "description": {"en": "workshop baking desem bread", "fr": "atelier de fabrication de pain au levain", "nl": "vorming zuurdesembrood bakken"}
+    },
+    {
+        "key": "vrijwilligerstafel.jpg",
+        "category": "volunteers",
+        "description": {"en": "eating together", "fr": "manger ensemble", "nl": "samen eten"}
+    },
+    {
+        "key": "weelbarrowapples.jpg",
+        "category": "food",
+        "description": {"en": "let's make apple juice", "fr": "Préparons du jus de pomme", "nl": "laten we appelsap maken!"}
+    },
+    {
+        "key": "wolmand-2.jpg",
+        "category": "crafts",
+        "description": {"en": "spinning", "fr": "tisser", "nl": "spinnen"}
+    },
+    {
+        "key": "woodcarving1.jpg",
+        "category": "crafts",
+        "description": {"en": "name plates for fruit trees with hammer and shisel", "fr": "plaques d'identification pour arbres fruitiers au marteau et burin", "nl": "naamplaatjes voor de fruitbomen met hamer en beitel"}
+    },
+    {
+        "key": "woodcarving2.jpg",
+        "category": "garden",
+        "description": {"en": "name plates for fruit trees with hammer and shisell", "fr": "lplaques d'identification pour arbres fruitiers au marteau et burin", "nl": "naamplaatjes voor de fruitbomen met hamer en beitel"}
+    },
+    {
+        "key": "zetelbuiten.jpg",
+        "category": "accommodation",
+        "description": {"en": "front of the barn", "fr": "devant la grange", "nl": "voorkant van de schuur"}
+     }
 ]
