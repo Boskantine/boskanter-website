@@ -22,7 +22,7 @@ const categories = [
         title: {en: "garden", fr: "jardin", nl: "tuin"}
     },
     {
-        key: "omgeving",
+        key: "surrounding",
         title: {en: "environment", fr: "environnement", nl: "omgeving"}
     },
     {
