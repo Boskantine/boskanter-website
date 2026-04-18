@@ -80,11 +80,6 @@
         "description": {"en": "pasta", "fr": "pasta", "nl": "pasta"}
     },
     {
-        "key": "brood-op-ovenschep.jpg",
-        "category": "food",
-        "description": {"en": "desem bread", "fr": "pain au levain", "nl": "desembrood"}
-    },
-    {
         "key": "rocketstove.jpg",
         "category": "construction",
         "description": {"en": "lighting a small rocket stove", "fr": "allumer un petit rocket stove", "nl": "een kleine rocket stove aansteken"}
